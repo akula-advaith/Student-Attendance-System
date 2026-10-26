@@ -89,7 +89,7 @@ const NAV_ITEMS = [
   {
     title: "Profile",
     icon: UserIcon,
-    href: "#",
+    href: "/profile",
     isActive: false,
   },
 ];
